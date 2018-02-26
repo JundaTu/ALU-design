@@ -1,0 +1,80 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use work.mux_4_1;
+
+entity mux_4_1_32 is
+  port(
+  a0,a1,a2,a3 : in std_logic_vector(31 downto 0);
+  sel : in std_logic_vector(1 downto 0);
+  z   : out std_logic_vector(31 downto 0)
+  );
+end mux_4_1_32;  
+architecture structural of mux_4_1_32 is
+  signal z0 : std_logic_vector(31 downto 0);
+begin
+    u0: entity mux_4_1(structural)
+      port map(a0(0),a1(0),a2(0),a3(0),sel,z0(0));
+    u1: entity mux_4_1(structural)
+      port map(a0(1),a1(1),a2(1),a3(1),sel,z0(1));
+    u2: entity mux_4_1(structural)
+      port map(a0(2),a1(2),a2(2),a3(2),sel,z0(2));
+    u3: entity mux_4_1(structural)
+      port map(a0(3),a1(3),a2(3),a3(3),sel,z0(3));
+    u4: entity mux_4_1(structural)
+      port map(a0(4),a1(4),a2(4),a3(4),sel,z0(4));
+    u5: entity mux_4_1(structural)
+      port map(a0(5),a1(5),a2(5),a3(5),sel,z0(5));
+    u6: entity mux_4_1(structural)
+      port map(a0(6),a1(6),a2(6),a3(6),sel,z0(6));
+    u7: entity mux_4_1(structural)
+      port map(a0(7),a1(7),a2(7),a3(7),sel,z0(7));
+    u8: entity mux_4_1(structural)
+      port map(a0(8),a1(8),a2(8),a3(8),sel,z0(8));
+    u9: entity mux_4_1(structural)
+      port map(a0(9),a1(9),a2(9),a3(9),sel,z0(9));
+    u10: entity mux_4_1(structural)
+      port map(a0(10),a1(10),a2(10),a3(10),sel,z0(10));
+    u11: entity mux_4_1(structural)
+      port map(a0(11),a1(11),a2(11),a3(11),sel,z0(11));
+    u12: entity mux_4_1(structural)
+      port map(a0(12),a1(12),a2(12),a3(12),sel,z0(12));
+    u13: entity mux_4_1(structural)
+      port map(a0(13),a1(13),a2(13),a3(13),sel,z0(13));
+    u14: entity mux_4_1(structural)
+      port map(a0(14),a1(14),a2(14),a3(14),sel,z0(14));
+    u15: entity mux_4_1(structural)
+      port map(a0(15),a1(15),a2(15),a3(15),sel,z0(15));
+    u16: entity mux_4_1(structural)
+      port map(a0(16),a1(16),a2(16),a3(16),sel,z0(16));
+    u17: entity mux_4_1(structural)
+      port map(a0(17),a1(17),a2(17),a3(17),sel,z0(17));
+    u18: entity mux_4_1(structural)
+      port map(a0(18),a1(18),a2(18),a3(18),sel,z0(18));
+    u19: entity mux_4_1(structural)
+      port map(a0(19),a1(19),a2(19),a3(19),sel,z0(19));
+    u20: entity mux_4_1(structural)
+      port map(a0(20),a1(20),a2(20),a3(20),sel,z0(20));
+    u21: entity mux_4_1(structural)
+      port map(a0(21),a1(21),a2(21),a3(21),sel,z0(21));
+    u22: entity mux_4_1(structural)
+      port map(a0(22),a1(22),a2(22),a3(22),sel,z0(22));
+    u23: entity mux_4_1(structural)
+      port map(a0(23),a1(23),a2(23),a3(23),sel,z0(23));
+    u24: entity mux_4_1(structural)
+      port map(a0(24),a1(24),a2(24),a3(24),sel,z0(24));
+    u25: entity mux_4_1(structural)
+      port map(a0(25),a1(25),a2(25),a3(25),sel,z0(25));
+    u26: entity mux_4_1(structural)
+      port map(a0(26),a1(26),a2(26),a3(26),sel,z0(26));
+    u27: entity mux_4_1(structural)
+      port map(a0(27),a1(27),a2(27),a3(27),sel,z0(27));
+    u28: entity mux_4_1(structural)
+      port map(a0(28),a1(28),a2(28),a3(28),sel,z0(28));
+    u29: entity mux_4_1(structural)
+      port map(a0(29),a1(29),a2(29),a3(29),sel,z0(29));
+    u30: entity mux_4_1(structural)
+      port map(a0(30),a1(30),a2(30),a3(30),sel,z0(30));
+    u31: entity mux_4_1(structural)
+      port map(a0(31),a1(31),a2(31),a3(31),sel,z0(31));
+    z<=z0;
+end structural;

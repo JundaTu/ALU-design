@@ -1,0 +1,52 @@
+library ieee;
+library work;
+use ieee.std_logic_1164.all;
+use work.adder;
+
+
+
+entity adder_test is
+end adder_test;
+architecture behavior of adder_test is
+signal a,b,cin : std_logic;
+signal cout, sum : std_logic;
+
+component adder is
+  port(
+    a : in std_logic;
+    b : in std_logic;
+    cin : in std_logic;
+    cout : out std_logic;
+    sum : out std_logic
+  );
+end component adder;
+
+begin
+  test_comp : adder
+  port map(
+  a=>a,
+  b=>b,
+  cin=>cin,
+  cout=>cout,
+  sum=>sum
+  );
+  testbench : process
+  begin
+    a<='0';
+    b<='0';
+    cin<='0';
+    wait for 50 ns;
+    assert sum = '1';
+    wait for 50ns;
+    b<='1';
+    assert sum = '0';
+    assert cout = '1';
+    wait for 50ns;
+    a<='1';
+    wait for 50ns;
+    cin<='1';
+    wait;
+  end process;
+end architecture behavior;
+
+

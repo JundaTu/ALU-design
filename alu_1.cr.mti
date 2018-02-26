@@ -1,0 +1,706 @@
+D:/alu/eecs361lib_alu/eecs361/lib/mux.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/mux.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux
+-- Compiling architecture structural of mux
+
+} {} {}} D:/alu/alu_32_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/alu_32_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity alu_1bit
+-- Loading entity alu_32bit
+-- Compiling entity alu_32_test
+-- Compiling architecture behavior of alu_32_test
+** Warning: [4] D:/alu/alu_32_test.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_32_test.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_32_test.vhd(81): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_32_test.vhd(95): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/xor_gate_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_n
+-- Compiling architecture dataflow of xor_gate_n
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/and_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/and_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_32
+-- Compiling architecture dataflow of and_gate_32
+
+} {} {}} D:/alu/adder.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/adder.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Compiling entity adder
+-- Compiling architecture plus of adder
+
+} {} {}} D:/alu/mux_4_1_32.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\mux_4_1_32.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Compiling entity mux_4_1_32
+-- Compiling architecture structural of mux_4_1_32
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/dec_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/dec_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dec_n
+-- Compiling architecture behavioral of dec_n
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/not_gate.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\eecs361lib_alu\eecs361\lib\not_gate.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate
+-- Compiling architecture dataflow of not_gate
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/or_gate.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/or_gate.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture dataflow of or_gate
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/mux_32.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\eecs361lib_alu\eecs361\lib\mux_32.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_32
+-- Compiling architecture structural of mux_32
+
+} {} {}} D:/alu/adder_2.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/adder_2.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Compiling entity adder_2
+-- Compiling architecture plus of adder_2
+
+} {} {}} D:/alu/mux_4_1_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/mux_4_1_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Compiling entity mux_4_1_test
+-- Compiling architecture behavior of mux_4_1_test
+** Warning: [4] D:/alu/mux_4_1_test.vhd(32): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/mux_4_1_test.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/mux_4_1_test.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/xnor_gate_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_n
+-- Compiling architecture dataflow of xnor_gate_n
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/nand_gate_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_n
+-- Compiling architecture dataflow of nand_gate_n
+
+} {} {}} D:/alu/r_shift_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/r_shift_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity r_shift
+-- Compiling entity r_shift_test
+-- Compiling architecture behavior of r_shift_test
+** Warning: [4] D:/alu/r_shift_test.vhd(29): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(32): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(34): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(36): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(38): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(56): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(58): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(60): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(62): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(64): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(70): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/r_shift_test.vhd(72): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/test/mux_n_test.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/test/mux_n_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_n_test
+-- Compiling architecture behavioral of mux_n_test
+
+} {} {}} D:/alu/adder_8.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/adder_8.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity adder_2
+-- Compiling entity adder_8
+-- Compiling architecture plus of adder_8
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/and_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\eecs361lib_alu\eecs361\lib\and_gate_n.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_n
+-- Compiling architecture dataflow of and_gate_n
+
+} {} {}} D:/alu/fina_conbination.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\fina_conbination.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity alu_1bit
+-- Loading entity alu_32bit
+-- Loading entity mux_4_1_32
+-- Loading entity not_gate
+-- Loading entity slt_sltu
+-- Loading entity l_shift
+-- Loading entity r_shift
+-- Loading entity con_and_shift
+-- Loading entity mux_32
+-- Compiling entity fina_conbination
+-- Compiling architecture behavior of fina_conbination
+
+} {} {}} D:/alu/adder_32_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/adder_32_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity adder_2
+-- Loading entity adder_8
+-- Loading entity adder_32
+-- Compiling entity adder_32_test
+-- Compiling architecture behavior of adder_32_test
+** Warning: [4] D:/alu/adder_32_test.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/or_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/or_gate_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_n
+-- Compiling architecture dataflow of or_gate_n
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/not_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/not_gate_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_n
+-- Compiling architecture dataflow of not_gate_n
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/xnor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/xnor_gate.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate
+-- Compiling architecture dataflow of xnor_gate
+
+} {} {}} D:/alu/adder_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/adder_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Compiling entity adder_test
+-- Compiling architecture behavior of adder_test
+** Warning: [4] D:/alu/adder_test.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/adder_test.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/adder_test.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/slt_sltu_test.vhd {2 {vcom -work work -2002 -explicit -vopt {D:\alu\slt_sltu_test.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity alu_1bit
+-- Loading entity alu_32bit
+-- Loading entity not_gate
+-- Loading entity slt_sltu
+-- Compiling entity slt_sltu_test
+-- Compiling architecture behavior of slt_sltu_test
+** Warning: [4] D:\alu\slt_sltu_test.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/and_gate.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/and_gate.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture dataflow of and_gate
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/xnor_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_32
+-- Compiling architecture dataflow of xnor_gate_32
+
+} {} {}} D:/alu/adder_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/adder_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity adder_2
+-- Loading entity adder_8
+-- Compiling entity adder_32
+-- Compiling architecture plus of adder_32
+
+} {} {}} D:/alu/alu_32bit.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\alu_32bit.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity alu_1bit
+-- Compiling entity alu_32bit
+-- Compiling architecture behavior of alu_32bit
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/xor_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_32
+-- Compiling architecture dataflow of xor_gate_32
+
+} {} {}} D:/alu/con_and_shift_test.vhd {2 {vcom -work work -2002 -explicit -vopt {D:\alu\con_and_shift_test.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity mux_4_1_32
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity alu_1bit
+-- Loading entity alu_32bit
+-- Loading entity not_gate
+-- Loading entity slt_sltu
+-- Loading entity l_shift
+-- Loading entity r_shift
+-- Loading entity con_and_shift
+-- Compiling entity con_and_shift_test
+-- Compiling architecture behavior of con_and_shift_test
+** Warning: [4] D:\alu\con_and_shift_test.vhd(65): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:\alu\con_and_shift_test.vhd(79): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/mux_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/mux_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_n
+-- Compiling architecture behavioral of mux_n
+
+} {} {}} D:/alu/r_shift.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/r_shift.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Compiling entity r_shift
+-- Compiling architecture behavior of r_shift
+
+} {} {}} D:/alu/add8_test.vhd {2 {vcom -work work -2002 -explicit -vopt {D:\alu\add8_test.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity adder_2
+-- Loading entity adder_8
+-- Compiling entity add8_test
+-- Compiling architecture behavior of add8_test
+** Warning: [4] D:\alu\add8_test.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/eecs361.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/eecs361.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling package eecs361
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/nor_gate_n.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/nor_gate_n.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_n
+-- Compiling architecture dataflow of nor_gate_n
+
+} {} {}} D:/alu/add_sub_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/add_sub_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity adder_2
+-- Loading entity adder_8
+-- Loading entity adder_32
+-- Compiling entity add_sub_32
+-- Compiling architecture behavior of add_sub_32
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/xor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/xor_gate.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture dataflow of xor_gate
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/nand_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_32
+-- Compiling architecture dataflow of nand_gate_32
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/eecs361_gates.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package eecs361_gates
+
+} {} {}} D:/alu/add_sub_32_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/add_sub_32_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity or_gate
+-- Loading entity and_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity adder_2
+-- Loading entity adder_8
+-- Loading entity adder_32
+-- Loading entity add_sub_32
+-- Compiling entity add_sub_32_test
+-- Compiling architecture behavior of add_sub_32_test
+** Warning: [4] D:/alu/add_sub_32_test.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/mux_4_1.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\mux_4_1.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Compiling entity mux_4_1
+-- Compiling architecture structural of mux_4_1
+
+} {} {}} D:/alu/con_and_shift.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\con_and_shift.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity mux_4_1_32
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading entity alu_1bit
+-- Loading entity alu_32bit
+-- Loading entity not_gate
+-- Loading entity slt_sltu
+-- Loading entity l_shift
+-- Loading entity r_shift
+-- Compiling entity con_and_shift
+-- Compiling architecture behavior of con_and_shift
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/nor_gate.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\eecs361lib_alu\eecs361\lib\nor_gate.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture dataflow of nor_gate
+
+} {} {}} D:/alu/mux_8_1.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/mux_8_1.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Compiling entity mux_8_1
+-- Compiling architecture structural of mux_8_1
+
+} {} {}} D:/alu/slt_sltu.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\slt_sltu.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity alu_1bit
+-- Loading entity alu_32bit
+-- Loading entity not_gate
+-- Compiling entity slt_sltu
+-- Compiling architecture behavior of slt_sltu
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/nor_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_32
+-- Compiling architecture dataflow of nor_gate_32
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/or_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/or_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_32
+-- Compiling architecture dataflow of or_gate_32
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/not_gate_32.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/not_gate_32.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_32
+-- Compiling architecture dataflow of not_gate_32
+
+} {} {}} D:/alu/alu_1bit_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/alu_1bit_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Loading entity alu_1bit
+-- Compiling entity alu_1bit_test
+-- Compiling architecture behavior of alu_1bit_test
+** Warning: [4] D:/alu/alu_1bit_test.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(60): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(63): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(70): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(73): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(76): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(79): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(80): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(84): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(87): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(90): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(93): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(99): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(102): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(105): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/alu_1bit_test.vhd(108): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/l_shift_test.vhd {2 {vcom -work work -2002 -explicit -vopt D:/alu/l_shift_test.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity l_shift
+-- Compiling entity l_shift_test
+-- Compiling architecture behavior of l_shift_test
+** Warning: [4] D:/alu/l_shift_test.vhd(29): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(32): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(34): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(36): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(38): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(56): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(58): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(60): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(62): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(64): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(70): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] D:/alu/l_shift_test.vhd(72): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/alu/eecs361lib_alu/eecs361/lib/nand_gate.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/eecs361lib_alu/eecs361/lib/nand_gate.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture dataflow of nand_gate
+
+} {} {}} D:/alu/alu_1bit.vhd {1 {vcom -work work -2002 -explicit -vopt D:/alu/alu_1bit.vhd
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity and_gate
+-- Loading entity or_gate
+-- Loading entity xor_gate
+-- Loading entity adder
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Loading entity mux_4_1
+-- Compiling entity alu_1bit
+-- Compiling architecture dataflow of alu_1bit
+
+} {} {}} D:/alu/l_shift.vhd {1 {vcom -work work -2002 -explicit -vopt {D:\alu\l_shift.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading entity mux
+-- Compiling entity l_shift
+-- Compiling architecture behavior of l_shift
+
+} {} {}}
